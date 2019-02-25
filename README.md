@@ -28,7 +28,7 @@ Datasets are first combined then split into training and testing sets. Random Fo
 The result is 87% accuracy.
 
 ### Team members
-Erica Austriaco
-Krystal Yang
-Rosalyn Wong
-Stephanie On
+- Erica Austriaco
+- Krystal Yang
+- Rosalyn Wong
+- Stephanie On
