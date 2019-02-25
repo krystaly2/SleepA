@@ -1,3 +1,4 @@
+# SleepA
 ### Description
 SleepA is an analysis tool which is used to determine which stage of sleep the person is in based on the EEG and EOG data. The pattern of sleep stages indicate the sleep quality. By finding the correlation between neuron activity and sleep quality, one's sleep can potentially be improved through neuron stimulation.
 Please see "AIMD PRES.pptx" for more details.
@@ -25,3 +26,9 @@ libraries used:
 
 Datasets are first combined then split into training and testing sets. Random Forest Regressor module is used for training the data.
 The result is 87% accuracy.
+
+### Team members
+Erica Austriaco
+Krystal Yang
+Rosalyn Wong
+Stephanie On
